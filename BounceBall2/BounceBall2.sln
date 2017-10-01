@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BounceBall2", "BounceBall2.vcxproj", "{43EAC099-4165-4862-A34B-A4FD86B111C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43EAC099-4165-4862-A34B-A4FD86B111C1}.Debug|x64.ActiveCfg = Debug|x64
+		{43EAC099-4165-4862-A34B-A4FD86B111C1}.Debug|x64.Build.0 = Debug|x64
+		{43EAC099-4165-4862-A34B-A4FD86B111C1}.Debug|x86.ActiveCfg = Debug|Win32
+		{43EAC099-4165-4862-A34B-A4FD86B111C1}.Debug|x86.Build.0 = Debug|Win32
+		{43EAC099-4165-4862-A34B-A4FD86B111C1}.Release|x64.ActiveCfg = Release|x64
+		{43EAC099-4165-4862-A34B-A4FD86B111C1}.Release|x64.Build.0 = Release|x64
+		{43EAC099-4165-4862-A34B-A4FD86B111C1}.Release|x86.ActiveCfg = Release|Win32
+		{43EAC099-4165-4862-A34B-A4FD86B111C1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1FC7AAD-788C-47DC-AB35-241EAAE1C2DB}
+	EndGlobalSection
+EndGlobal
